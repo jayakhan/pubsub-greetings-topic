@@ -3,7 +3,7 @@ The idea behind this project is to facilate the basics of streaming data integra
 
 Below is the simple flow of message via Topic in GCP.
 
-![Alt text](assets/pubsub.png "Architecture")
+![Alt text](pubsub.png "Architecture")
 
 
 ## Project Description
